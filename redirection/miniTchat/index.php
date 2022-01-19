@@ -1,5 +1,5 @@
 <?php
-    include 'functions/main-f.php';
+    include './functions/main-f.php';
 
 /*
 Scan le repertoire page

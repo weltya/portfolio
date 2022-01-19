@@ -8,7 +8,7 @@
 
     $dbuser = 'weltyev219';
 
-    $dbpassword = 'Tamiya67310';
+    $dbpassword = 'AjgKfh6J1fgvv45ZZc012';
 
 
 
@@ -28,7 +28,7 @@
 
     }catch(PDOexception $e){
 
-        die('can\'t connect to database2');
+        die('can\'t connect to database');
 
     }
 
