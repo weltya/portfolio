@@ -14,8 +14,8 @@
             < p>
         </div>
         <p class="about-skills-text">
-            Je m’appelle Alexandre Welty, j’ai 22 ans, j’habite en Alsace à Strasbourg.
-            Je suis étudiant à l’école IRIS à Strasbourg, et je suis passionné par l’informatique depuis toujours.
+            Je m’appelle Alexandre Welty, j’ai 23 ans, j’habite en Alsace à Strasbourg.
+            Je suis étudiant à l’IUT de saint-dié-des-vosges, et je suis passionné par l’informatique.
         </p>
         <div class="hand">
             < p>

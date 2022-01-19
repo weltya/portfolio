@@ -20,7 +20,7 @@
 
     $dbuser = 'weltyev219';
 
-    $dbpassword = 'AjgKfh6J1fgvv45ZZc01';
+    $dbpassword = 'AjgKfh6J1fgvv45ZZc012';
 
     
 

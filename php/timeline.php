@@ -92,7 +92,7 @@
 
                 <h2 class="timeline-content-title">2021</h2>
 
-                <p class="timeline-content-desc">Stage de 5 semaines à Horus, Strasbourg</p>
+                <p class="timeline-content-desc">Stage de 5 semaines Ã  Horus, Strasbourg</p>
 
             </div>
 

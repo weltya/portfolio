@@ -1299,6 +1299,11 @@
             opacity: 1;
 
         }
+        .works-title-section{
+            text-align: center;
+            color: var(--main-blue);
+            text-decoration: underline;
+        }
 
         
 

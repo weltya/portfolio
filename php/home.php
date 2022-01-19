@@ -6,11 +6,9 @@
 
     < html>
 
-    <p class="text-portfolio"><span class="text-red">parcoursup :</span></p>
+    <p class="text-portfolio"><span class="text-red">Contact :</span></p>
 
-    <p class="text-portfolio parcoursup">Site en construction/reconstruction (1 semaine de préparation pour toutes les épreuves du partiel du 
-
-    second semestre)<br>
+    <p class="text-portfolio parcoursup">
 	Le formulaire fonctionne si tous les champs sont remplis (n'affiche pas encore de message)
 
     </p>
