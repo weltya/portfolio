@@ -1,0 +1,1 @@
+<div id="footer">copyright © | welty alexandre | tous droits réservés</div>
