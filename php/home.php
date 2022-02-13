@@ -9,7 +9,7 @@
     <p class="text-portfolio"><span class="text-red">Contact :</span></p>
 
     <p class="text-portfolio parcoursup">
-	Le formulaire fonctionne si tous les champs sont remplis (n'affiche pas encore de message)
+	The form works if all fields are filled in (does not display a message yet)
 
     </p>
 
@@ -45,11 +45,11 @@
 
         <div id="title">
 
-            <span class="text-home text-home1">Bonjour</span><br><br>
+            <span class="text-home text-home1">Hello</span><br>
 
             <span class="text-home">
 
-                Je Suis
+                I am
 
                 <svg class="svg-letters-home big-800" height="50" width="0">
 
@@ -73,7 +73,7 @@
 
             </span><br>
 
-            <span class="text-home little-800-active">Et Je Suis</span><br>
+            <span class="text-home little-800-active">and I am</span><br>
 
             <span class="typing text-home"></span>
 
@@ -103,9 +103,9 @@
 
         </div>
 
-        <a class="btn min-width-btn" href="./index.php?page=contact"><span></span>Contactez moi</a>
+        <a class="btn min-width-btn" href="./index.php?page=contact"><span></span>Contact</a>
 
-        <a class="btn min-width-btn" href="./alex/alexcv.pdf" target="_blank"><span></span>CV</a>
+        <a class="btn min-width-btn" href="./alex/alexcv.pdf" target="_blank"><span></span>resume</a>
 
         <div class="hand">
 

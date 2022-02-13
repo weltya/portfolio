@@ -4,7 +4,7 @@
 
 </div>
 
-<h2 class="h2-blue">Mon Portfolio</h2>
+<h2 class="h2-blue">My Portfolio</h2>
 
 <div class="hand">
 
@@ -18,27 +18,27 @@
 
     <div class="timeline-header">
 
-        <h2 class="timeline-header-title text-red">Mes formations</h2>
+        <h2 class="timeline-header-title text-red">My courses</h2>
 
-        <h3 class="timeline-header-subtitle text-red">Mon parcours profesionnel</h3>
+        <h3 class="timeline-header-subtitle text-red">My background</h3>
 
     </div>
 
     <div class="timeline">
 
-        <div class="timeline-item" data-text="Lycée">
+        <div class="timeline-item" data-text="High School">
 
             <div class="timeline-content"><img class="timeline-img" src="./img/timeline/hautBarr.png" />
 
                 <h2 class="timeline-content-title">2016</h2>
 
-                <p class="timeline-content-desc">Lycée du haut Barr Saverne, baccalauréat série scientifique. Obtenue</p>
+                <p class="timeline-content-desc">Lycée du haut Barr Saverne, baccalauréat série scientifique. Obtained</p>
 
             </div>
 
         </div>
 
-        <div class="timeline-item" data-text="Université">
+        <div class="timeline-item" data-text="Medicine University">
 
             <div class="timeline-content"><img class="timeline-img" src="./img/timeline/paces.jpg" />
 
@@ -50,49 +50,61 @@
 
         </div>
 
-        <div class="timeline-item" data-text="Restauration">
+        <div class="timeline-item" data-text="Restaurant">
 
             <div class="timeline-content"><img class="timeline-img" src="./img/timeline/restaurant.png" />
 
                 <h2 class="timeline-content-title">2017-2019</h2>
 
-                <p class="timeline-content-desc">Chef de partie à restaurant au Saumon, Wasselonne</p>
+                <p class="timeline-content-desc">Chef de partie at restaurant au Saumon, Wasselonne</p>
 
             </div>
 
         </div>
 
-        <div class="timeline-item" data-text="Université">
+        <div class="timeline-item" data-text="IT university">
 
             <div class="timeline-content"><img class="timeline-img" src="./img/timeline/mathInfo.jpg" />
 
                 <h2 class="timeline-content-title">2020</h2>
 
-                <p class="timeline-content-desc">Rentrée décalée (1er semestre autonome) à l'université de Strasbourg en licence mathémathique-informatique. obtenue avec 13.169/20</p>
+                <p class="timeline-content-desc">Offset entry (1st semester autonomous) at the University of Strasbourg in mathematics-computer science degree. obtained with 13.169/20</p>
 
             </div>
 
         </div>
 
-        <div class="timeline-item" data-text="Lycée">
+        <div class="timeline-item" data-text="High School">
 
             <div class="timeline-content"><img class="timeline-img" src="./img/timeline/iris.jpg" />
 
                 <h2 class="timeline-content-title">2020</h2>
 
-                <p class="timeline-content-desc">BTS SIO à l'école IRIS à Strasbourg</p>
+                <p class="timeline-content-desc">BTS SIO at IRIS school of Strasbourg</p>
 
             </div>
 
         </div>
 
-<div class="timeline-item" data-text="Entreprise">
+        <div class="timeline-item" data-text="Entreprise">
 
             <div class="timeline-content"><img class="timeline-img" src="./img/timeline/iris.jpg" />
 
                 <h2 class="timeline-content-title">2021</h2>
 
-                <p class="timeline-content-desc">Stage de 5 semaines à Horus, Strasbourg</p>
+                <p class="timeline-content-desc">5 week internship at Horus, Strasbourg</p>
+
+            </div>
+
+        </div>
+
+        <div class="timeline-item" data-text="IUT">
+
+            <div class="timeline-content"><img class="timeline-img" src="./img/timeline/sainDieIut.jpg" />
+
+                <h2 class="timeline-content-title">2021</h2>
+
+                <p class="timeline-content-desc">university bachelor of technology</p>
 
             </div>
 

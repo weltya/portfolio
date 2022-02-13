@@ -288,7 +288,7 @@
 
         position: relative;
 
-        width: 99%;
+        width: 100%;
 
         height: 920px;
 
@@ -1302,7 +1302,16 @@
         .works-title-section{
             text-align: center;
             color: var(--main-blue);
-            text-decoration: underline;
+        }
+        .works-title-section2{
+            text-align: center;
+            color: var(--main-blue);
+            font-size: 18px;
+        }
+        .works-title-section3{
+            text-align: center;
+            color: var(--main-red);
+            font-size: 15px;
         }
 
         
@@ -1685,7 +1694,7 @@
 
         .map-container{
 
-            background: url("../img/map.PNG");
+            background: url("../img/map.png");
 
             background-size: cover;
 
@@ -2139,7 +2148,7 @@
 
         .card:nth-child(7) .svg-skills circle:nth-child(2){
 
-            stroke-dashoffset: calc(440 - (440 * 20) / 100);
+            stroke-dashoffset: calc(440 - (440 * 60) / 100);
 
             stroke: var(--main-purple);
 
@@ -2147,16 +2156,23 @@
 
         .card:nth-child(8) .svg-skills circle:nth-child(2){
 
-            stroke-dashoffset: calc(440 - (440 * 20) / 100);
+            stroke-dashoffset: calc(440 - (440 * 30) / 100);
 
             stroke: var(--main-yellow);
 
         }
         .card:nth-child(9) .svg-skills circle:nth-child(2){
 
-            stroke-dashoffset: calc(440 - (440 * 80) / 100);
+            stroke-dashoffset: calc(440 - (440 * 20) / 100);
 
             stroke: var(--main-purple);
+
+        }
+        .card:nth-child(10) .svg-skills circle:nth-child(2){
+
+            stroke-dashoffset: calc(440 - (440 * 80) / 100);
+
+            stroke: var(--main-red);
 
         }
 
@@ -2176,7 +2192,7 @@
 
         .container-title-content{
 
-            width: fit-content;
+            /*width: fit-content;*/
 
             display: flex;
 

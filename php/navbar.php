@@ -22,16 +22,16 @@
         <div id="navbar-item2" class="navbar-item">
             <ul id="navbar-list">
                 <li class="navbar-item-item2 navbar-item-item2-first">
-                    <a href="index.php?page=about" class="nav-link">A propos</a>
+                    <a href="index.php?page=about" class="nav-link">About</a>
                 </li>
                 <li class="navbar-item-item2">
-                    <a href="index.php?page=interest" class="nav-link">Centres d'interêts</a>
+                    <a href="index.php?page=interest" class="nav-link">Interests</a>
                 </li>
                 <li class="navbar-item-item2">
-                    <a href="index.php?page=skills" class="nav-link">Compétences</a>
+                    <a href="index.php?page=skills" class="nav-link">Skills</a>
                 </li>
                 <li class="navbar-item-item2">
-                    <a href="index.php?page=works" class="nav-link">Travaux</a>
+                    <a href="index.php?page=works" class="nav-link">Works</a>
                 </li>
                 <li class="navbar-item-item2">
                     <a href="index.php?page=contact" class="nav-link">Contact</a>
@@ -40,7 +40,7 @@
         </div>
 
         <div id="navbar-item3" class="navbar-item">
-            <a target="_blank" href="https://github.com/BerBie-s0"><i class="fab fa-github social-icon"></i></a>
+            <a target="_blank" href="https://github.com/BerBie0"><i class="fab fa-github social-icon"></i></a>
         </div>
     </div>
 </div>
@@ -72,16 +72,16 @@
 
             <div id="navbar-list2">
                 <li class="navbar-item-item2 navbar-item-item2-first">
-                    <a href="index.php?page=about" class="nav-link">A propos</a>
+                    <a href="index.php?page=about" class="nav-link">About</a>
                 </li>
                 <li class="navbar-item-item2">
-                    <a href="index.php?page=interest" class="nav-link">Centres d'interêts</a>
+                    <a href="index.php?page=interest" class="nav-link">interests</a>
                 </li>
                 <li class="navbar-item-item2">
-                    <a href="index.php?page=skills" class="nav-link">Compétences</a>
+                    <a href="index.php?page=skills" class="nav-link">Skills</a>
                 </li>
                 <li class="navbar-item-item2">
-                    <a href="index.php?page=works" class="nav-link">Travaux</a>
+                    <a href="index.php?page=works" class="nav-link">Works</a>
                 </li>
                 <li class="navbar-item-item2">
                     <a href="index.php?page=contact" class="nav-link">Contact</a>
@@ -89,7 +89,7 @@
             </div>
 
             <div id="navbar-list3">
-                <a target="_blank" href="https://github.com/BerBie-s0"><i class="fab fa-github social-icon"></i></a>
+                <a target="_blank" href="https://github.com/BerBie0"><i class="fab fa-github social-icon"></i></a>
             </div>
         </ul>
     </div>

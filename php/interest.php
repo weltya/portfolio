@@ -4,19 +4,19 @@
         < h2>
     </div>
     <div class="container-title-content">
-        <h2 class="h2-red">Mes centres d'interets</h2>
+        <h2 class="h2-red">My centers of interests</h2>
         <div class="hand align-left">
             < /h2>
         </div>
         <div class="section-content interest">
-            <span class="trait">Ce que j'aime</span>
+            <span class="trait">What I like</span>
         </div>
     </div>
     <div class="hand">
         < p>
     </div>
     <p class="double-section">
-        Cette section est dédiée à mes passions et centres d'intérêts
+        This section is dedicated to my passions and interests
     </p>
     <div class="hand">
         < /p>
@@ -49,7 +49,7 @@
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <img class="img-flip" src="./img/interest/music.jpg" alt="Avatar">
-                        Musique
+                        Music
                     </div>
                     <div class="flip-card-back">
                         <img class="img-flip-back" src="./img/interest/music2.jpg" alt="Avatar">
@@ -63,7 +63,7 @@
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <img class="img-flip" src="./img/interest/swim.jpg" alt="Avatar">
-                        Natation
+                        Swimming
                     </div>
                     <div class="flip-card-back">
                         <img class="img-flip-back" src="./img/interest/swim2.jpg" alt="Avatar">
@@ -91,7 +91,7 @@
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <img class="img-flip" src="./img/interest/travel.jpg" alt="Avatar">
-                        Voyage
+                        Travel
                     </div>
                     <div class="flip-card-back">
                         <img class="img-flip-back" src="./img/interest/travel2.jpg" alt="Avatar">
@@ -105,7 +105,7 @@
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <img class="img-flip" src="./img/img.jpeg" alt="Avatar">
-                        Athlétisme
+                        Athletics
                     </div>
                     <div class="flip-card-back">
                         <img class="img-flip-back" src="./img/interest/athle2.jpg" alt="Avatar">
@@ -119,7 +119,7 @@
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <img class="img-flip" src="./img/interest/cinema.jpg" alt="Avatar">
-                        Cinéma
+                        Cinema
                     </div>
                     <div class="flip-card-back">
                         <img class="img-flip-back" src="./img/interest/cinema2.png" alt="Avatar">
@@ -133,7 +133,7 @@
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <img class="img-flip" src="./img/interest/mtb.jpg" alt="Avatar">
-                        Cyclisme
+                        Cycling
                     </div>
                     <div class="flip-card-back">
                         <img class="img-flip-back" src="./img/interest/mtb2.jpg" alt="Avatar">
@@ -146,7 +146,7 @@
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <img class="img-flip" src="./img/interest/read.jpg" alt="Avatar">
-                        Lecture
+                        Reading
                     </div>
                     <div class="flip-card-back">
                         <img class="img-flip-back" src="./img/interest/read2.jpg" alt="Avatar">

@@ -3,19 +3,18 @@
         <div class="hand">
             < h2>
         </div>
-        <h2 class="h2-red">A propos de moi</h2>
+        <h2 class="h2-red">About me</h2>
         <div class="hand">
             < h2>
         </div>
         <div class="section-content">
-            <span class="trait">Qui suis-je</span>
+            <span class="trait">Who am I</span>
         </div>
         <div class="hand">
             < p>
         </div>
         <p class="about-skills-text">
-            Je m’appelle Alexandre Welty, j’ai 23 ans, j’habite en Alsace à Strasbourg.
-            Je suis étudiant à l’IUT de saint-dié-des-vosges, et je suis passionné par l’informatique.
+        My name is Alexandre Welty, I am 23 years old, I live in Alsace in Strasbourg. I am a student at the IUT of Saint-Die-des-Vosges, and I am passionate about computer science.
         </p>
         <div class="hand">
             < p>
@@ -27,17 +26,17 @@
             <canvas width="600px" height="600px" id="myCanvas">
                 <p>Anything in here will be replaced on browsers that support the canvas element</p>
                 <ul>
-                    <li><a href="#">Travail d'équipe</a></li>
-                    <li><a href="#">Curieux</a></li>
-                    <li><a href="#">Passionée</a></li>
-                    <li><a href="#">athlétisme</a></li>
-                    <li><a href="#">Cyclisme</a></li>
-                    <li><a href="#">Cinéma</a></li>
-                    <li><a href="#">Lecture</a></li>
-                    <li><a href="#">Ponctuelle</a></li>
-                    <li><a href="#">Attentif</a></li>
-                    <li><a href="#">Autonome</a></li>
-                    <li><a href="#">Organisation</a></li>
+                    <li><a href="#">Teamwork</a></li>
+                    <li><a href="#">Curious</a></li>
+                    <li><a href="#">Passionate</a></li>
+                    <li><a href="#">Athletics</a></li>
+                    <li><a href="#">Cycling</a></li>
+                    <li><a href="#">Cinema</a></li>
+                    <li><a href="#">Reading</a></li>
+                    <li><a href="#">Ponctual</a></li>
+                    <li><a href="#">Attentive</a></li>
+                    <li><a href="#">Autonomous</a></li>
+                    <li><a href="#">Organization</a></li>
                 </ul>
             </canvas>
         </div>

@@ -138,7 +138,7 @@
 
                  <div class="field">
 
-                     <label for="name" class="field-label">Votre nom</label>
+                     <label for="name" class="field-label">Your name</label>
 
                      <input class="field-input" type="text" name="name" id="name" />
 
@@ -146,7 +146,7 @@
 
                  <div class="field">
 
-                     <label for="email" class="field-label">Votre adresse mail</label>
+                     <label for="email" class="field-label">Your mail</label>
 
                      <input class="field-input" type="email" name="email" id="email" />
 
@@ -154,7 +154,7 @@
 
                  <div class="field">
 
-                     <label for="subject" class="field-label">Votre Sujet</label>
+                     <label for="subject" class="field-label">Your subject</label>
 
                      <input class="field-input" type="text" name="subject" id="subject" />
 
@@ -162,7 +162,7 @@
 
                  <div class="field field-big">
 
-                     <label for="message" class="field-label">Votre message</label>
+                     <label for="message" class="field-label">Your message</label>
 
                      <textarea class="field-input field-input-big" name="message" id="message" cols="20" rows="5"></textarea>
 
@@ -172,7 +172,7 @@
 
 
 
-                 <button type="submit" name="submit" class="btn btn-600"><span></span>Envoyez</button>
+                 <button type="submit" name="submit" class="btn btn-600"><span></span>Send</button>
 
              </form>
 

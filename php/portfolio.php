@@ -3,17 +3,17 @@
     <div class="hand">
         < h2>
     </div>
-    <h2 class="h2-blue">Mon Portfolio</h2>
+    <h2 class="h2-blue">My works</h2>
     <div class="hand">
         < /h2>
     </div>
     <div class="hand">
         < p>
     </div>
-    <p class="text-portfolio">Cette section est dédié à une séléction de projet choisis par moi même que j'ai effectuer relativement récement.
-        Bien entendu, Ce n'est qu'un petit aperçu de ce que j'ai fait. Si vous voulez en voir plus, n'hésitez pas à vous rendre sur la Page mes
-        <a class="text-blue" href="">travaux</a>
-    <p class="text-portfolio"><span class="text-red">GitHub :</span> Certains dépôts sont encore <span class="text-red">privé</span></p>
+    <p class="text-portfolio">This section is dedicated to a selection of projects chosen by myself that I have done relatively recently.
+        Of course, this is only a small preview of what I've done. If you want to see more, feel free to visit my
+        <a class="text-blue" href="">works</a>
+    <p class="text-portfolio"><span class="text-red">GitHub :</span> Some repositories are still <span class="text-red">private</span></p>
     </p>
     <div class="hand">
         < /p>
@@ -29,13 +29,13 @@
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
                         <img class="img-flip" src="./img/works/spacePavageAnimals2.png" alt="Avatar">
-                        Pavage de l'espace
+                        Space paving
                     </div>
                     <div class="flip-card-back">
                         <p>Backtracking</p>
                         <p>Python</p>
                         <p>....</p>
-                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie-s0/spacePavageAnimals.git"><span></span>GitHub</a>
+                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/spacePavingAnimals"><span></span>GitHub</a>
                     </div>
                 </div>
             </div>
@@ -45,15 +45,15 @@
             <div class="flip-card">
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
-                        <img class="img-flip" src="./img/works/miniTchat2.PNG" alt="Avatar">
+                        <img class="img-flip" src="./img/works/miniTchat2.png" alt="Avatar">
                         MiniTchat
                     </div>
                     <div class="flip-card-back">
                         <p>MiniTchat</p>
                         <p>html,css,js,sql,php</p>
                         <p>....</p>
-                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie-s0/miniTchat.git"><span></span>GitHub</a>
-                        <a class="btn a-carousel" target="_blank" href="./redirection/miniTchat/index.php"><span></span>=></a>
+                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/miniTchat"><span></span>GitHub</a>
+                        <a class="btn a-carousel" target="_blank" href="./redirection/miniTchat/index.php"><span></span>try</a>
                     </div>
                 </div>
             </div>
@@ -63,15 +63,14 @@
             <div class="flip-card">
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
-                        <img class="img-flip" src="./img/works/portfolioV1.PNG" alt="Avatar">
-                        portfolio v.1
+                        <img class="img-flip" src="./img/works/commercialTraveler.png" alt="Avatar">
+                        Commercial traveler
                     </div>
                     <div class="flip-card-back">
-                        <p>Portfolio v.1</p>
-                        <p>html/css/js</p>
+                        <p>Commercial traveler</p>
+                        <p>python</p>
                         <p>....</p>
-                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie-s0/portfolioV1ALL.git"><span></span>GitHub</a>
-                        <a class="btn a-carousel" target="_blank" href="./redirection/portfolioV1/index.html"><span></span>=></a>
+                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/sae1.01"><span></span>GitHub</a>
                     </div>
                 </div>
             </div>
@@ -81,14 +80,14 @@
             <div class="flip-card">
                 <div class="flip-card-inner">
                     <div class="flip-card-front">
-                        <img class="img-flip" src="./img/img.jpeg" alt="Avatar">
-                        /
+                        <img class="img-flip" src="./img/works/multipleBirth.jpg" alt="Avatar">
+                        Multiple birth
                     </div>
                     <div class="flip-card-back">
-                        <p>/</p>
-                        <p>/</p>
-                        <p>....</p>
-                        <a class="btn a-carousel" href=""><span></span>/</a>
+                        <p>read CSV file/</p>
+                        <p>data structure</p>
+                        <p>C</p>
+                        <a class="btn a-carousel" href="https://github.com/BerBie0/sae1.02" target="_blank"><span></span>GitHub</a>
                     </div>
                 </div>
             </div>
