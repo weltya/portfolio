@@ -192,6 +192,7 @@
                         <p>...</p>
 
                         <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/sae1.01"><span></span>GitHub</a>
+                        <a class="btn a-carousel" target="_blank" href="./works/sae1.01/portfolio.pdf"><span></span>School</a>
 
                     </div>
 
@@ -212,6 +213,8 @@
                         <p>Data structure, csv file</p>
 
                         <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/sae1.02"><span></span>GitHub</a>
+                        <a class="btn a-carousel" target="_blank" href="./works/sae1.02/sae1.02.pdf"><span></span>.pdf</a>
+                        <a class="btn a-carousel" target="_blank" href="./works/sae1.02/portfolio.pdf"><span></span>School</a>
 
                     </div>
 
@@ -231,8 +234,8 @@
 
                         <p>installation of Ubuntu</p>
 
-                        <a class="btn a-carousel" target="_blank" href="./works/e5Reseau/weltyAlexandreFicheSituation.pdf"><span></span>.PDF</a>
-
+                        <a class="btn a-carousel" target="_blank" href="./works/sae1.03/s1.03.pdf"><span></span>.PDF</a>
+                        <a class="btn a-carousel" target="_blank" href="./works/sae1.03/portfolio.pdf"><span></span>School</a>
 
                     </div>
 
@@ -252,9 +255,9 @@
 
                         <p>creation of a database</p>
 
-                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/miniTchat"><span></span>.PDF</a>
-
                         <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/sae1.04"><span></span>GitHub</a>
+                        <a class="btn a-carousel" target="_blank" href="./works/sae1.04/sae1.04.pdf"><span></span>.pdf</a>
+                        <a class="btn a-carousel" target="_blank" href="./works/sae1.04/portfolio.pdf"><span></span>School</a>
 
 
                     </div>
@@ -275,7 +278,8 @@
 
                         <p>Poster, tour, questionnaire, creation of a bicycle path</p>
 
-                        <a class="btn a-carousel" target="_blank" href="./works/veille/veilleFinal.pdf"><span></span>.PDF</a>
+                        <a class="btn a-carousel" target="_blank" href="./works/sae1.05/sae1.05.zip"><span></span>.zip</a>
+                        <a class="btn a-carousel" target="_blank" href="./works/sae1.05/portfolio.pdf"><span></span>School</a>
 
                     </div>
 
@@ -295,7 +299,9 @@
 
                         <p>SWOT, PESTEL, PORTER, ..., HTML/CSS</p>
 
-                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/sae1.06"><span></span>.PDF</a>
+                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/sae1.06"><span></span>github</a>
+                        <a class="btn a-carousel" target="_blank" href="./works/sae1.06/sae1.06.pdf"><span></span>.pdf</a>
+                        <a class="btn a-carousel" target="_blank" href="./works/sae1.06/portfolio.pdf"><span></span>School</a>
 
                     </div>
 
