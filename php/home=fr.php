@@ -9,7 +9,7 @@
     <p class="text-portfolio"><span class="text-red">Contact :</span></p>
 
     <p class="text-portfolio parcoursup">
-	The form works if all fields are filled in (does not display a message yet)
+	Le formulaire fonctionne si tous les champs sont remplis (il n'affiche pas encore de message).
 
     </p>
 
@@ -45,11 +45,11 @@
 
         <div id="title">
 
-            <span class="text-home text-home1">Hello</span><br>
+            <span class="text-home text-home1">Bonjour</span><br>
 
             <span class="text-home">
 
-                I am
+                Je suis
 
                 <svg class="svg-letters-home big-800" height="50" width="0">
 
@@ -73,7 +73,7 @@
 
             </span><br>
 
-            <span class="text-home little-800-active">and I am</span><br>
+            <span class="text-home little-800-active">et je suis</span><br>
 
             <span class="typing text-home"></span>
 
@@ -105,7 +105,7 @@
 
         <a class="btn min-width-btn" href="./index.php?page=contact"><span></span>Contact</a>
 
-        <a class="btn min-width-btn" href="./alex/alexcveng.pdf" target="_blank"><span></span>resume</a>
+        <a class="btn min-width-btn" href="./alex/alexcvfr.pdf" target="_blank"><span></span>cv</a>
 
         <div class="hand">
 
@@ -139,7 +139,7 @@
 
 <?php
 
-include './php/portfolio.php'
+include './php/portfolio=fr.php'
 
 ?>
 
@@ -153,7 +153,7 @@ include './php/portfolio.php'
 
     <?php
 
-    include './php/timeline.php'
+    include './php/timeline=fr.php'
 
     ?>
 
@@ -171,7 +171,7 @@ include './php/portfolio.php'
 
     <?php
 
-    include './php/contact.php'
+    include './php/contact=fr.php'
 
     ?>
 

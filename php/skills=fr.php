@@ -3,18 +3,18 @@
         <div class="hand">
             < h2>
         </div>
-        <h2 class="h2-red">My skills</h2>
+        <h2 class="h2-red">Mes compétences</h2>
         <div class="hand">
             < h2>
         </div>
         <div class="section-content">
-            <span class="trait">What I know</span>
+            <span class="trait">Ce que je sais</span>
         </div>
         <div class="hand">
             < p>
         </div>
         <p class="about-skills-text">
-			This section is dedicated to my Skills
+			Cette section est dédiée à mes Compétences
 		</p>
         <div class="hand">
             < p>
@@ -159,7 +159,7 @@
 							<h2>80<span>%</span></h2>
 						</div>
 					</div>
-					<h2 class="text">Teamwork</h2>
+					<h2 class="text">Travail d'équipe</h2>
 				</div>
 			</div>
 			

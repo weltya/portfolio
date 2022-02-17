@@ -11,7 +11,7 @@ $(document).ready(function(e){
     })
 
     var typed = new Typed(".typing", {
-        strings: ["Student", "Passionate", "Curious", "Motivated"],
+        strings: ["Etudiant", "Passionné", "Curieux", "Motivé"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true

@@ -8,7 +8,7 @@ if (isset($_GET['page']) && !empty($_GET['page']) && in_array($_GET['page'] . '.
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <meta charset="UTF-8">
@@ -28,17 +28,17 @@ if (isset($_GET['page']) && !empty($_GET['page']) && in_array($_GET['page'] . '.
     <div id="container">
         <!--Navbar start-->
         <?php
-        include './php/navbar.php'
+        include './php/navbar=fr.php'
         ?>
         <!--current section start-->
         <?php
-        include './php/' . $page . '.php'
+        include './php/' . $page . '=fr.php'
         ?>
     </div>
     <!--
     <footer>
         <?php
-        include './php/footer.php'
+        include './php/footer=fr.php'
         ?>
     </footer>
     -->
@@ -48,7 +48,7 @@ if (isset($_GET['page']) && !empty($_GET['page']) && in_array($_GET['page'] . '.
 
 <!--<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
-<script src="./js/btn.js"></script>
+<script src="./js/btn=fr.js"></script>
 <script src="./js/form.js"></script>
 <script src="./js/tagcanvas.js"></script>
 <script src="./js/carousel.js"></script>

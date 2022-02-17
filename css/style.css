@@ -664,7 +664,7 @@
 
                 align-items: center;
 
-                justify-content: space-between;
+                justify-content: space-evenly;
 
             }
 
@@ -838,7 +838,23 @@
 
                     margin-bottom: 5px;
 
-                    height: 300px;
+                    /*height: 300px;*/
+
+                }
+
+                #navbar-item4{
+
+                    color: var(--main-gray);
+
+                    display: flex;
+
+                    justify-content: center;
+
+                    margin-bottom: 5px;
+
+                    list-style-type: none;
+
+                    /*height: 300px;*/
 
                 }
 
@@ -2219,10 +2235,11 @@
         p.double-section{
 
             color: #fff;
-
-            width: 50%;
+            /*50% sans text-align*/
+            width: 100%;
 
             margin-top: 25px;
+            text-align: center;
 
         }
 
@@ -2610,7 +2627,7 @@ footer{
 
         display: flex;
 
-        justify-content: space-between;
+        justify-content: space-evenly;
 
         align-items: center;
 
@@ -2706,7 +2723,7 @@ footer{
 
         justify-content: center;
 
-        height: 25%;
+        height: 5%;
 
     }
 
