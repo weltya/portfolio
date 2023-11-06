@@ -319,4 +319,41 @@
 
 
 
+    <section class="container-carousel" id="container-carousel">
+        
+
+        <div class="max-width">
+        <h1 class="works-title-section">2022/2023</h1>
+        <h2 class="works-title-section2">Semester 3 Illkirch Robert Schumann</h2>
+        <h3 class="works-title-section3">SAE=learning situation assessed</h3>
+
+            <div class="carousel owl-carousel">
+            
+
+                <div class="card">
+
+                    <div class="box">
+
+                        <img src="" alt="">
+
+                        <div class="text">Chess</div>
+
+                        <p>Chess game(java)</p>
+
+                        <p>branch rendu3</p>
+
+                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/chessgame"><span></span>GitHub</a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
 </div>

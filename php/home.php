@@ -105,7 +105,9 @@
 
         <a class="btn min-width-btn" href="./index.php?page=contact"><span></span>Contact</a>
 
-        <a class="btn min-width-btn" href="./alex/alexcveng.pdf" target="_blank"><span></span>resume</a>
+        <a class="btn min-width-btn" href="./alex/resumePrint.pdf" target="_blank"><span></span>resume to print</a>
+
+        <a class="btn min-width-btn" href="./alex/resumeNoPrint.pdf" target="_blank"><span></span>resume web</a>
 
         <div class="hand">
 

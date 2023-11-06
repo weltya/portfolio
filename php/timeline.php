@@ -110,6 +110,18 @@
 
         </div>
 
+        <div class="timeline-item" data-text="IUT">
+
+            <div class="timeline-content"><img class="timeline-img" src="./img/timeline/robertSchumann.jpg" />
+
+                <h2 class="timeline-content-title">2022-2024</h2>
+
+                <p class="timeline-content-desc">university bachelor of technology</p>
+
+            </div>
+
+        </div>
+
 
     </div>
 

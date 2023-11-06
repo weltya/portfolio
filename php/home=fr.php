@@ -105,7 +105,9 @@
 
         <a class="btn min-width-btn" href="./index.php?page=contact"><span></span>Contact</a>
 
-        <a class="btn min-width-btn" href="./alex/alexcvfr.pdf" target="_blank"><span></span>cv</a>
+        <a class="btn min-width-btn" href="./alex/resumePrint.pdf" target="_blank"><span></span>cv pour impression</a>
+
+        <a class="btn min-width-btn" href="./alex/resumeNoPrint.pdf" target="_blank"><span></span>cv web</a>
 
         <div class="hand">
 
