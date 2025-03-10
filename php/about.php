@@ -14,7 +14,14 @@
             < p>
         </div>
         <p class="about-skills-text">
-        My name is Alexandre Welty, I am 23 years old, I live in Alsace in Strasbourg. I am a student at the IUT of Saint-Die-des-Vosges, and I am passionate about computer science.
+            My name is Alexandre, and I am a student following an unconventional path in a computer science program
+            through a work-study arrangement. I am passionate about exploring innovative solutions in technology and
+            have gained practical experience through various projects. I enjoy tackling new challenges and continuously
+            learning about the latest advancements in the field.<br />
+
+            When I'm not coding or brainstorming ideas, I keep active with sports like athletics, cycling, and
+            swimming. These activities not only help me maintain a balanced lifestyle but also fuel my creativity and
+            drive.
         </p>
         <div class="hand">
             < p>
@@ -45,15 +52,15 @@
 </section>
 
 <script type="text/javascript">
-  window.onload = function() {
-    try {
-        TagCanvas.textColour = '#08FDD8';
-        TagCanvas.outlineColour = '#FF0B56';
-        TagCanvas.textHeight = 24;
-        TagCanvas.Start('myCanvas');
-    } catch(e) {
-      // something went wrong, hide the canvas container
-      document.getElementById('myCanvasContainer').style.display = 'none';
-    }
-  };
+    window.onload = function () {
+        try {
+            TagCanvas.textColour = '#08FDD8';
+            TagCanvas.outlineColour = '#FF0B56';
+            TagCanvas.textHeight = 24;
+            TagCanvas.Start('myCanvas');
+        } catch (e) {
+            // something went wrong, hide the canvas container
+            document.getElementById('myCanvasContainer').style.display = 'none';
+        }
+    };
 </script>

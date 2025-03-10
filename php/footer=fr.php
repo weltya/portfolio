@@ -1,1 +1,1 @@
-<div id="footer">welty alexandre</div>
+<div id="footer">Welty Alexandre</div>

@@ -10,10 +10,13 @@
     <div class="hand">
         < p>
     </div>
-    <p class="text-portfolio">Cette section est consacrée à une sélection de projets choisis par moi-même et que j'ai réalisés relativement récemment.
-        Bien sûr, ce n'est qu'un petit aperçu de ce que j'ai fait. Si vous voulez en voir plus, n'hésitez pas à visiter mes.
+    <p class="text-portfolio">Cette section est consacrée à une sélection de projets choisis par moi-même et que j'ai
+        réalisés relativement récemment.
+        Bien sûr, ce n'est qu'un petit aperçu de ce que j'ai fait. Si vous voulez en voir plus, n'hésitez pas à visiter
+        mes.
         <a class="text-blue" href="">travaux</a>
-    <p class="text-portfolio"><span class="text-red">GitHub :</span> certains dépots sont encore <span class="text-red">privés</span></p>
+    <p class="text-portfolio"><span class="text-red">GitHub :</span> certains dépots sont encore <span
+            class="text-red">privés</span></p>
     </p>
     <div class="hand">
         < /p>
@@ -35,7 +38,8 @@
                         <p>Backtracking</p>
                         <p>Python</p>
                         <p>....</p>
-                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/spacePavingAnimals"><span></span>GitHub</a>
+                        <a class="btn a-carousel" target="_blank"
+                            href="https://github.com/weltya/spacePavingAnimals"><span></span>GitHub</a>
                     </div>
                 </div>
             </div>
@@ -52,8 +56,10 @@
                         <p>MiniTchat</p>
                         <p>html,css,js,sql,php</p>
                         <p>....</p>
-                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/miniTchat"><span></span>GitHub</a>
-                        <a class="btn a-carousel" target="_blank" href="./redirection/miniTchat/index.php"><span></span>try</a>
+                        <a class="btn a-carousel" target="_blank"
+                            href="https://github.com/weltya/miniTchat"><span></span>GitHub</a>
+                        <a class="btn a-carousel" target="_blank"
+                            href="./redirection/miniTchat/index.php"><span></span>try</a>
                     </div>
                 </div>
             </div>
@@ -70,7 +76,8 @@
                         <p>Voyageur du commerce</p>
                         <p>python</p>
                         <p>....</p>
-                        <a class="btn a-carousel" target="_blank" href="https://github.com/BerBie0/sae1.01"><span></span>GitHub</a>
+                        <a class="btn a-carousel" target="_blank"
+                            href="https://github.com/weltya/sae1.01"><span></span>GitHub</a>
                     </div>
                 </div>
             </div>
@@ -87,7 +94,8 @@
                         <p>lecture fichier CSV/</p>
                         <p>structure de données</p>
                         <p>C</p>
-                        <a class="btn a-carousel" href="https://github.com/BerBie0/sae1.02" target="_blank"><span></span>GitHub</a>
+                        <a class="btn a-carousel" href="https://github.com/weltya/sae1.02"
+                            target="_blank"><span></span>GitHub</a>
                     </div>
                 </div>
             </div>

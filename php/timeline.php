@@ -32,7 +32,8 @@
 
                 <h2 class="timeline-content-title">2016</h2>
 
-                <p class="timeline-content-desc">Lycée du haut Barr Saverne, baccalauréat série scientifique. Obtained</p>
+                <p class="timeline-content-desc">Lycée du haut Barr Saverne, baccalauréat série scientifique. Obtained
+                </p>
 
             </div>
 
@@ -54,7 +55,7 @@
 
             <div class="timeline-content"><img class="timeline-img" src="./img/timeline/restaurant.png" />
 
-                <h2 class="timeline-content-title">2017-2019</h2>
+                <h2 class="timeline-content-title">2017-2025</h2>
 
                 <p class="timeline-content-desc">Chef de partie at restaurant au Saumon, Wasselonne</p>
 
@@ -68,7 +69,8 @@
 
                 <h2 class="timeline-content-title">2020</h2>
 
-                <p class="timeline-content-desc">Offset entry (1st semester autonomous) at the University of Strasbourg in mathematics-computer science degree. obtained with 13.169/20</p>
+                <p class="timeline-content-desc">Offset entry (1st semester autonomous) at the University of Strasbourg
+                    in mathematics-computer science degree. obtained with 13.169/20</p>
 
             </div>
 
@@ -112,11 +114,35 @@
 
         <div class="timeline-item" data-text="IUT">
 
+            <div class="timeline-content"><img class="timeline-img" src="./img/timeline/cea.jpg" />
+
+                <h2 class=" timeline-content-title">2024 - 12 weeks</h2>
+
+                <p class="timeline-content-desc">internship Cea</p>
+
+            </div>
+
+        </div>
+
+        <div class="timeline-item" data-text="IUT">
+
             <div class="timeline-content"><img class="timeline-img" src="./img/timeline/robertSchumann.jpg" />
 
-                <h2 class="timeline-content-title">2022-2024</h2>
+                <h2 class="timeline-content-title">2022-2025</h2>
 
                 <p class="timeline-content-desc">university bachelor of technology</p>
+
+            </div>
+
+        </div>
+
+        <div class="timeline-item" data-text="IUT">
+
+            <div class="timeline-content"><img class="timeline-img" src="./img/timeline/ah.jpg" />
+
+                <h2 class="timeline-content-title">2025 - 1 year</h2>
+
+                <p class="timeline-content-desc">Apprenticeship at Alsace Habitat</p>
 
             </div>
 

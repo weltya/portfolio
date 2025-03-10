@@ -40,7 +40,7 @@
         </div>
 
         <div id="navbar-item3" class="navbar-item">
-            <a target="_blank" href="https://github.com/BerBie0"><i class="fab fa-github social-icon"></i></a>
+            <a target="_blank" href="https://github.com/weltya"><i class="fab fa-github social-icon"></i></a>
         </div>
 
         <div id="navbar-item4" class="navbar-item">
@@ -48,7 +48,7 @@
                 <a href="index.php" class="nav-link ">English</a>
             </li>
         </div>
-        
+
     </div>
 </div>
 
@@ -96,7 +96,7 @@
             </div>
 
             <div id="navbar-list3">
-                <a target="_blank" href="https://github.com/BerBie0"><i class="fab fa-github social-icon"></i></a>
+                <a target="_blank" href="https://github.com/weltya"><i class="fab fa-github social-icon"></i></a>
             </div>
             <div id="navbar-list4">
                 <a href="index.php" class="nav-link ">English</a>

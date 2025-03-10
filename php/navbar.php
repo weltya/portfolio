@@ -40,12 +40,12 @@
         </div>
 
         <div id="navbar-item3" class="navbar-item">
-            <a target="_blank" href="https://github.com/BerBie0"><i class="fab fa-github social-icon"></i></a>
+            <a target="_blank" href="https://github.com/weltya"><i class="fab fa-github social-icon"></i></a>
         </div>
 
         <div id="navbar-item4" class="navbar-item">
             <li class="navbar-item-item2 navbar-item-item2-first">
-                <a href="index=fr.php" class="nav-link ">Français</a>
+                <a href="index=fr.php" class="nav-link ">Français pas à jour</a>
             </li>
         </div>
     </div>
@@ -95,10 +95,10 @@
             </div>
 
             <div id="navbar-list3">
-                <a target="_blank" href="https://github.com/BerBie0"><i class="fab fa-github social-icon"></i></a>
+                <a target="_blank" href="https://github.com/weltya"><i class="fab fa-github social-icon"></i></a>
             </div>
             <div id="navbar-list4">
-                <a href="index=fr.php" class="nav-link ">Français</a>
+                <a href="index=fr.php" class="nav-link ">Français pas à jour</a>
             </div>
         </ul>
     </div>
